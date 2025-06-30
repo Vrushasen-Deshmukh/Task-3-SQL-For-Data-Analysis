@@ -1,9 +1,8 @@
 # Task 3 of Internship by Elevate Labs
 # SQL for Data Analysis
 
-This task focuses on using SQL queries to extract and analyze data from a database. Uses various SQL commands such as SELECT, WHERE, ORDER BY, GROUP BY, JOINS etc.
-
-Furthermore uses aggregate functions such as SUM, AVG etc.
+# Overview
+This task focuses on using SQL queries to extract and analyze data from a database. Uses various SQL commands such as SELECT, WHERE, ORDER BY, GROUP BY, JOINS etc. Furthermore uses aggregate functions such as SUM, AVG etc.
 
 # SQL Commands Used:
   - SELECT
